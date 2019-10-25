@@ -1,0 +1,22 @@
+{
+  "name": "cypress_example",
+  "version": "1.0.0",
+  "description": "Exemplo simples de utilização do cypress para a realização de testes automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcaliani/cypress_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcaliani/cypress_example/issues"
+  },
+  "homepage": "https://github.com/lcaliani/cypress_example#readme",
+  "devDependencies": {
+    "cypress": "^3.5.0"
+  }
+}
